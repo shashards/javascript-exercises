@@ -5,7 +5,7 @@ const reverseString = function(str) {
     return newStr;
 };
 
-reverseString("Shane Shardlow")
+reverseString("Hello Hello")
 
 // Do not edit below this line
 module.exports = reverseString;
