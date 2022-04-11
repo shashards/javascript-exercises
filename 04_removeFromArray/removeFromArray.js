@@ -10,7 +10,7 @@ const removeFromArray = function(arr, ...arg) {
             }
         }
         
-    } return console.log(arr);
+    } return arr;
 
 
 };
